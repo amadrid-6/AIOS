@@ -1,0 +1,31 @@
+# Build
+build/
+iso/
+
+# Object files
+*.o
+*.obj
+*.bin
+*.elf
+*.img
+*.iso
+
+# Debug
+*.map
+*.sym
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.swp
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
